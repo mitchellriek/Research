@@ -5,6 +5,7 @@ I am a third year Bachelor's student, pursuing a degree in Mechanical engineerin
 ## Current Project
 
 - Strain Acitvated Actuators
+
 My research involves studying how the out of plane deformations caused by tension buckling can be manipulated to create deformations applicabale to biomedical engineering (eg. Mirconeedle arrays, Microsutures).
 
 ## Scholarship and Awards
